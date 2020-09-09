@@ -1,1 +1,0 @@
-# fiap-cloud-development-labs
